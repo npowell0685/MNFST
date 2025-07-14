@@ -1,0 +1,1 @@
+MNFSTv11 will serve as the basis for MNFSTv12. The update is to use MNFSTv12 as a master indicator and create (4) slave indicators which pull data from the master to display it in various ways. MNFSTPANELv11 is the first slave, with usable UI.
